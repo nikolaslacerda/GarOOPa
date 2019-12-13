@@ -1,0 +1,26 @@
+.text-field:focused {
+    -fx-focus-color: #5779da;
+}
+
+.list-view {
+    -fx-selection-bar: #5779da;
+    -fx-focus-color: #5779da;
+}
+
+.list-cell:filled:selected {
+    -fx-text-fill: white;
+}
+
+.list-cell:filled:selected:hover {
+    -fx-text-fill: white;
+    -fx-background-color: #5779da;
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: #e5e5e5;
+    -fx-cursor: hand;
+}
+
+.choice-box .menu-item:focused {
+    -fx-background-color: #5779da;
+}

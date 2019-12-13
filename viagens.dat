@@ -1,0 +1,3 @@
+id,dataHora,roteiro,motorista,passageiro,custo
+0,2016-03-04 11:30,guajuviras;sapo,123,321,200.0
+1,2016-03-04 11:30,sapo;guajuviras,123,321,200.0
